@@ -31,7 +31,7 @@ This project demonstrates deploying a simple Django application to an AWS EC2 in
    ```
 2. **Build the Docker Image**
 	```bash
-	docker build -t django-app .
+	docker build . -t django-app
 	```
 3. **Run the Docker Container:**    
     ```bash
