@@ -64,6 +64,12 @@ This project demonstrates deploying a simple Django application to an AWS EC2 in
 
 ![Screenshot 2024-11-29 161100](https://github.com/user-attachments/assets/376db154-a198-49ea-8f73-4a1b81bdbd5a)
 
+**Console Output**
+
+![image](https://github.com/user-attachments/assets/9e1a822c-1c7b-443a-a135-bc3f8d3224c0)
+
+
+
 
 
 
